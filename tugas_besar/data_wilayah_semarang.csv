@@ -1,0 +1,237 @@
+Kecamatan,Desa,Harga,Kategori Harga Tanah,Pabrik,Kantor_Polisi,Kantor_Damkar,Rumah_Sakit,Puskesmas,Puskesmas_Pembantu,SPBU,Sekolah,Harga_min,Harga_max
+Ambarawa,Baran,1500000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Bejalen,1400000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Kranggan,1400000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Kupang,1400000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Lodoyong,1400000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Ngampin,1500000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Panjang,1500000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Pasekan,1300000,sedang,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Pojoksari,1400000,tinggi,3,1,0,2,1,2,1,118,1300000,1600000
+Ambarawa,Tambakboyo,1300000,sedang,3,1,0,2,1,2,1,118,1300000,1600000
+Bancak,Bancak,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Bantal,750000,rendah,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Boto,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Jlumpang,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Lembu,800000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Plumutan,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Pucung,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Rejosari,900000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bancak,Wonokerto,800000,tinggi,0,1,0,0,1,3,1,53,700000,1000000
+Bandungan,Bandungan,1100000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Banyukuning,1050000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Candi,1100000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Duren,1100000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Jetis,1050000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Jimbaran,1200000,tinggi,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Kenteng,1050000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Mlilir,1100000,sedang,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Pakopen,1200000,tinggi,1,1,0,0,2,2,1,109,900000,1200000
+Bandungan,Sidomukti,1200000,tinggi,1,1,0,0,2,2,1,109,900000,1200000
+Banyubiru,Banyubiru,1000000,tinggi,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Gedong,1000000,tinggi,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Kebondowo,950000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Kebumen,900000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Kemambang,1000000,tinggi,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Ngrapah,900000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Rowoboni,900000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Sepakung,900000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Tegaron,1000000,tinggi,2,1,0,0,1,3,1,80,800000,1100000
+Banyubiru,Wirogomo,900000,sedang,2,1,0,0,1,3,1,80,800000,1100000
+Bawen,Asinan,1500000,sedang,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Bawen,1500000,sedang,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Doplang,1600000,tinggi,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Harjosari,1700000,tinggi,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Kandangan,1600000,tinggi,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Lemahireng,1600000,tinggi,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Polosiri,1500000,sedang,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Poncoruso,1500000,sedang,20,1,0,0,1,2,2,92,1400000,1800000
+Bawen,Samban,1600000,tinggi,20,1,0,0,1,2,2,92,1400000,1800000
+Bergas,Bergas Kidul,1200000,tinggi,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Bergas Lor,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Diwak,1100000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Gebugan,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Gondoriyo,1200000,tinggi,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Hutan,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Jatijajar,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Karangjati,1200000,tinggi,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Munding,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Ngempon,1200000,tinggi,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Pagersari,1200000,tinggi,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Randugunting,1100000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,WringinPutih,1150000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bergas,Wujil,1100000,sedang,56,1,0,1,1,4,2,108,900000,1200000
+Bringin,Banding,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Bringin,850000,rendah,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Gogodalem,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Kalijambe,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Kalikurmo,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Lebak,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Nyemoh,850000,rendah,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Pakis,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Popongan,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Rembes,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Sambirejo,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Sendang,900000,sedang,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Tanjung,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Tempuran,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Truko,950000,tinggi,0,1,0,0,1,4,1,102,700000,1000000
+Bringin,Wiru,850000,rendah,0,1,0,0,1,4,1,102,700000,1000000
+Getasan,Batur,1100000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Getasan,1150000,tinggi,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Jetak,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Kopeng,1100000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Manggihan,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Ngrawan,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Nogosaren,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Polobogo,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Samirono,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Sumogawe,1150000,tinggi,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Tajuk,1100000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Tolokan,1150000,tinggi,2,1,0,0,2,4,1,92,800000,1100000
+Getasan,Wates,1050000,sedang,2,1,0,0,2,4,1,92,800000,1100000
+Jambu,Bedono,1100000,sedang,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Brongkol,1150000,tinggi,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Gemawang,1150000,tinggi,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Genting,1050000,sedang,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Gondoriyo,1150000,tinggi,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Jambu,1050000,sedang,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Kebondalem,1050000,sedang,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Kelurahan,1050000,sedang,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Kuwarasan,1150000,tinggi,2,1,0,0,1,3,1,80,900000,1200000
+Jambu,Rejosari,1150000,tinggi,2,1,0,0,1,3,1,80,900000,1200000
+Kaliwungu,Jetis,900000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Kaliwungu,800000,rendah,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Kener,850000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Kradenan,850000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Mukiran,900000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Pager,800000,rendah,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Papringan,850000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Payungan,850000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Rogomulyo,800000,rendah,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Siwal,800000,rendah,1,1,0,0,1,3,1,67,700000,1000000
+Kaliwungu,Udanwuh,900000,tinggi,1,1,0,0,1,3,1,67,700000,1000000
+Pabelan,Bejaten,850000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Bendungan,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Giling,800000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Glawan,800000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Jembrak,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Kadirejo,800000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Karanggondang,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,KaumanLor,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Pabelan,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Padaan,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Segiri,850000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Semowo,850000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Sukoharjo,850000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Sumberejo,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Terban,800000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Tukang,850000,tinggi,2,1,0,0,2,7,1,115,600000,900000
+Pabelan,Ujung-ujung,750000,rendah,2,1,0,0,2,7,1,115,600000,900000
+Pringapus,Candirejo,900000,tinggi,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Derekan,850000,tinggi,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Jatirunggo,800000,rendah,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Klepu,850000,tinggi,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Penawangan,800000,rendah,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Pringapus,900000,tinggi,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Pringsari,850000,tinggi,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Wonorejo,800000,rendah,20,1,0,0,1,4,1,82,700000,1000000
+Pringapus,Wonoyoso,800000,rendah,20,1,0,0,1,4,1,82,700000,1000000
+Sumowono,Bumen,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Candigaron,1100000,tinggi,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Duren,1100000,tinggi,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Jubelan,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Kebonagung,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Kemawi,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Kemitir,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Keseneng,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Lanjan,1100000,tinggi,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Losari,1000000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Mendongan,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Ngadikerso,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Piyanggang,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Pledokan,950000,sedang,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Sumowono,1100000,tinggi,0,1,0,0,1,5,1,83,800000,1100000
+Sumowono,Trayu,1100000,tinggi,0,1,0,0,1,5,1,83,800000,1100000
+Suruh,BejiLor,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Bonomerto,900000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Cukilan,800000,rendah,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Dadapayam,800000,rendah,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Dersansari,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,GunungTumpeng,800000,rendah,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Jatirejo,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Kebowan,900000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Kedungringin,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Ketanggi,900000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,KrandonLor,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Medayu,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Plumbon,800000,rendah,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Purworejo,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Reksosari,850000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Sukorejo,900000,tinggi,0,1,0,0,2,5,1,150,700000,1000000
+Suruh,Suruh,800000,rendah,0,1,0,0,2,5,1,150,700000,1000000
+Susukan,Badran,800000,rendah,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Bakalrejo,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Gentan,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Kemetul,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Kenteng,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Ketapang,900000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Koripan,900000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Muncar,800000,rendah,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Ngasinan,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Sidoharjo,800000,rendah,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Susukan,850000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Tawang,800000,rendah,3,1,0,0,1,4,1,116,700000,1000000
+Susukan,Timpik,900000,tinggi,3,1,0,0,1,4,1,116,700000,1000000
+Tengaran,Barukan,900000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Bener,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Butuh,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Cukil,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Duren,800000,rendah,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Karangduren,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Klero,800000,rendah,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Nyamat,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Patemon,900000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Regunung,850000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Sruwen,800000,rendah,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Sugihan,900000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Tegalrejo,900000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Tegalwaton,800000,rendah,22,1,0,0,1,5,1,133,700000,1000000
+Tengaran,Tengaran,900000,tinggi,22,1,0,0,1,5,1,133,700000,1000000
+Tuntang,Candirejo,750000,rendah,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Delik,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Gedangan,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Jombor,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Kalibeji,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Karanganyar,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Karangtengah,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Kesongo,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Lopait,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Ngajaran,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Rowosari,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Sraten,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Tlogo,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Tlompakan,850000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Tuntang,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Tuntang,Watuagung,800000,tinggi,3,1,0,0,2,3,1,104,600000,900000
+Ungaran Barat,Bandarjo,3000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Branjang,4000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Candirejo,3000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Genuk,1800000,sedang,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Gogik,4000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Kalisidi,3000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Keji,4000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Langensari,3000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Lerep,1800000,sedang,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Nyatnyono,1800000,sedang,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Barat,Ungaran,4000000,tinggi,9,1,1,1,2,2,2,188,1800000,5900000
+Ungaran Timur,Beji,1500000,tinggi,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Gedanganak,1000000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Kalikayen,1200000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Kalirejo,1000000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Kalongan,1500000,tinggi,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Kawengen,1200000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Leyangan,1200000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Mluweh,1000000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Sidomulyo,1000000,sedang,16,1,0,1,2,3,2,109,700000,1900000
+Ungaran Timur,Susukan,1000000,sedang,16,1,0,1,2,3,2,109,700000,1900000
